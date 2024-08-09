@@ -28,4 +28,4 @@
 - Make an Inbound policy for web applications.
 - Make an Inbound policy for MSSQL Server.
 
-#### 👍 👍 👍 Done! Have a Good Day👍 👍 👍
+#### 👍 👍 👍 Done! Have a Good Day 👍 👍 👍
