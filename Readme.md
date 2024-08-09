@@ -5,7 +5,7 @@
 - Install [Windows Hosting Bundle](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-aspnetcore-6.0.32-windows-x64-installer) as you required
 - Making Inbound policies as you expected
 
-##### Let`s get started
+#### Let`s get started
 
 **Step-01**
 - Install Web Server (IIS) from Server Manager (Add Roles & Features). If you are using Windows then install IIS from the Control panel.
